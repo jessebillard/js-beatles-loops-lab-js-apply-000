@@ -28,7 +28,7 @@ function johnLennonFacts(facts) {
 
 
 // test 3
-var n = 7;
+
 
 function iLoveTheBeatles(n) {
   var lastArray = [];
